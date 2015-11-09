@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enumconvertibleexp", "enumconvertibleexp\enumconvertibleexp.csproj", "{59FDA723-CB99-4247-B121-8BB5C0590765}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59FDA723-CB99-4247-B121-8BB5C0590765}.Debug|x86.ActiveCfg = Debug|x86
+		{59FDA723-CB99-4247-B121-8BB5C0590765}.Debug|x86.Build.0 = Debug|x86
+		{59FDA723-CB99-4247-B121-8BB5C0590765}.Release|x86.ActiveCfg = Release|x86
+		{59FDA723-CB99-4247-B121-8BB5C0590765}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
